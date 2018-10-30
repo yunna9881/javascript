@@ -1,2 +1,2 @@
 # Dice Game
-![Screenshot](Dice.JPG)
+![Screenshot](DiceGame.JPG)
